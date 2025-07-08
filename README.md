@@ -30,4 +30,4 @@
 
 </div>
 
-<p> Projeto para ligar e deslligar luminárias da Tenaris Confab </p>
+<p> Projeto para gestão de unidades hidráulicas da Tenaris Confab </p>
